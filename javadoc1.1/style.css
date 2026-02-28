@@ -1,0 +1,14 @@
+:root {
+    --navbar-background-color: white;
+    --selected-background-color: #51247A;
+    --selected-text-color: white;
+    --navbar-text-color: #51247A;
+    --link-color: #51247A;
+    --link-color-active: #BB9D65;
+    --body-font-size: 14px;
+    --block-font-family: Arial;
+}
+
+pre {
+    border: 1px solid #e1e4e8;
+}
