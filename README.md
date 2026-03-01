@@ -7,11 +7,11 @@ This is a Java project demonstrating the Model-View-Controller (MVC) pattern usi
 
 This project implements a structured Java application with clear separation of concerns:
 
-Model Layer – classes representing core objects and domain logic.
+- Model Layer – classes representing core objects and domain logic.
 
-Controller Layer – classes that coordinate interactions between models and operations.
+- Controller Layer – classes that coordinate interactions between models and operations.
 
-Build Scripts – for compiling and running the code.
+- Build Scripts – for compiling and running the code.
 
 It’s an educational reference for how to apply the MVC architectural pattern in a Java console or modular environment.
 
@@ -26,15 +26,15 @@ It’s an educational reference for how to apply the MVC architectural pattern i
 
 To set up and run the project locally:
 
-Clone the repository
+1. Clone the repository
 
 git clone https://github.com/Ivan53040/Java-OOP-StarTrek-ModelControllerBuild.git
 
-Open the project in your IDE
+2. Open the project in your IDE
 
 Use IntelliJ IDEA, Eclipse, or any Java-compatible IDE.
 
-Compile and run
+3. Compile and run
 
 Navigate to the src folder.
 
@@ -49,10 +49,10 @@ java Main
 
 This project separates responsibilities:
 
-Models hold the application state and define domain objects.
+- Models hold the application state and define domain objects.
 
-Controllers manipulate models and handle user-driven actions.
+- Controllers manipulate models and handle user-driven actions.
 
-Application Logic brings models and controllers together into executable flows.
+- Application Logic brings models and controllers together into executable flows.
 
 This architecture helps you build scalable, maintainable software and is commonly used in real-world Java systems.
