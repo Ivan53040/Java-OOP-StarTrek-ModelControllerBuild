@@ -1,4 +1,5 @@
 Java OOP Star Trek – Model-Controller Build
+
 📌 About
 
 This is a Java project demonstrating the Model-View-Controller (MVC) pattern using an object-oriented design inspired by Star Trek. It implements clean separation between data models and controllers to manage the logic of a simulated environment. The repository includes core components such as entity models, controller logic, and support for extending functionality. This project was built for learning and applying advanced object-oriented programming principles in Java, including encapsulation, abstraction, inheritance and modular design.
